@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 I am a first year PhD student.
+
+This is my CV: [CV](../assets/CV Qilong Yu.pdf).
