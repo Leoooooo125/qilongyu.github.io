@@ -20,8 +20,8 @@ repository               : "Leoooooo125/qilongyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://leoooooo125.github.io/qilongyu.github.io/"
-  name             : "Qilong"
+  avatar           : "https://leoooooo125.github.io/qilongyu.github.io/images/profile.png"
+  name             : "Qilong Yu"
   pronouns         : # example: "she/her"  
   bio              : "Chase the moment"
   location         : "New York, USA"
