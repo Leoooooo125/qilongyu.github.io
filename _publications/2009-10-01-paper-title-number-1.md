@@ -10,3 +10,4 @@ venue: 'Journal 1'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Alam, A. W., Yu, Q., Bai, S., & Banna, H. (2025). Local economic uncertainty, bank efficiency, and financial risk. Finance Research Letters, 81, 107508. https://doi.org/10.1016/j.frl.2025.107508'
+---
